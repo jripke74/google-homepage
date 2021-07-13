@@ -1,0 +1,1 @@
+Re creating the google.com home page. I have learned how to use the developer tools to reverse engineer the website, at least how it looks. I have learned HTML and CSS basics specificaly forms and background colors.
