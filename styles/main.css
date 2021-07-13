@@ -1,0 +1,26 @@
+nav {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+}
+
+.main {
+  text-align: center;
+}
+
+form {
+  margin: 1.5rem;
+}
+
+form button {
+  margin: 1.5rem;
+}
